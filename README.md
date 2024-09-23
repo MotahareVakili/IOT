@@ -14,7 +14,7 @@ The main goal is to set up a web server on the ESP8266 module, allowing users to
 - Receive commands via Telegram for more advanced IoT control.
 
 ## Technologies Used
-- **Hardware:** ESP8266 Wi-Fi Module, LED, Relay Module (optional)
+- **Hardware:** ESP8266 Wi-Fi Module, LED
 - **Software:** Arduino IDE, HTML, and C++ for ESP8266 programming
 - **Network Communication:** HTTP protocol for web-based control
 
